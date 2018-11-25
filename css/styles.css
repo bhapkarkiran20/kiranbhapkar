@@ -341,7 +341,7 @@ a {
   box-sizing: content-box;
   background-color: #AA7BE5;
   padding: 0 2em 0;
-  border-left: 15px solid #0b5cf3;
+  border-left: 15px solid #AA7BE5;
 }
 .about__text__description {
   font-family: 'Source Sans Pro', sans-serif;
@@ -383,7 +383,7 @@ a {
   max-width: 360px;
   max-height: 360px;
   border-radius: 50%;
-  border: 15px solid #30ebbce7;
+  border: 15px solid #AA7BE5;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
 }
